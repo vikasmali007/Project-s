@@ -1,0 +1,108 @@
+body{
+  color: #141313e7;
+background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20250317/pngtree-soft-pastel-gradient-background-with-a-subtle-grainy-texture-image_17103336.jpg ) ;
+background-position: center ;
+background-size: cover;
+background-repeat: no-repeat;
+}
+header  {
+   
+     
+}
+
+
+h2{  padding-top: 25px;
+     font-size: 30px;
+     font-family: Papyrus;
+     margin-bottom: px;
+    
+}
+#nav {
+     
+     font-family:Garamond;
+    
+}
+#About p {
+    
+  font-family: Garamond;
+}
+#profile-pic{
+  
+  width:150px;
+  border-radius:100%;
+}
+h3{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ table{ text-align: center;
+        font-family: cursive;  
+ }
+ thead {
+        font-family:Papyrus;
+        font-weight: bold;
+        text-align: center;
+ } 
+ #skill{
+  font-family: 'Times New Roman', Times, serif;
+ 
+ }
+ #list{
+  list-style: disc;
+ }
+ h3{
+    font-family: Georgia;
+ }
+ 
+ legend{
+  font-family: Times New Roman;
+  font-weight: bold;
+ 
+ }
+ form{
+  font-family: Garamond;
+ 
+  
+ } 
+  #nam {
+  margin-right: 45px;
+  padding: 10px;
+  border: 5px;
+  border-radius: 18px;
+
+ }
+ #sub{
+    margin: 0px 29px 15px 19px;
+  padding: 10px;
+  border: 5px;
+  border-radius: 18px;
+
+ }
+ #email{
+  margin-bottom: 10px;
+  margin-right: 45px;
+  padding: 10px;
+  border: 5px;
+  border-radius: 18px;
+
+ }
+ #Inquiry{
+       border-radius: 20px;
+  
+  
+ }
+ .button{
+  font-size: 18px;
+
+  margin: 10px;
+  border-radius: 20px;
+ background-image: linear-gradient(to right,#7ef9ee , #c1eaff , #ff6e7f  ); 
+           
+ }
+ #msg{
+  margin: -23px;
+  margin-left: 46px;
+  border-radius: 13px;
+  padding: 5px;
+ }
+
